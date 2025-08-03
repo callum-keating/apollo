@@ -1,6 +1,7 @@
 #include <iostream>
 #include <array>
 #ifdef _WIN32
+#include <conio.h>
 #include <windows.h>
 #endif
 namespace apollo {
@@ -29,5 +30,10 @@ namespace apollo {
         columns = csbi.srWindow.Right - csbi.srWindow.Left + 1;
         rows = csbi.srWindow.Bottom - csbi.srWindow.Top + 1;
         return {columns, rows};
+    }
+    int waitKey() {
+        #ifdef _WIN32
+        return _getch();
+        #endif
     }
 }
