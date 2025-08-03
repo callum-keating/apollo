@@ -1,7 +1,9 @@
 #include <iostream>
+#include <array>
 
 namespace apollo {
-    int addTerm(const char* toPrint);
+    int print(const char* toPrint);
     int clearTerm();
     int setCursor(int x, int y);
+    std::array<int, 2> getConsoleSize();
 }

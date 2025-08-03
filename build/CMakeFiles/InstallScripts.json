@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Program Files/scoop/projects/apollo/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
