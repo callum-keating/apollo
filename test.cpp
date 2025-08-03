@@ -1,6 +1,8 @@
 #include "libs/apollo/apollo.h"
 
 int main() {
-    addTerm("hello");
+    apollo::clearTerm();
+    apollo::addTerm("hello");
+    std::cin.ignore();
     return 0;
 }
