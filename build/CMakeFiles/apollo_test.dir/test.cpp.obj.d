@@ -1,147 +1,148 @@
-CMakeFiles/apollo_test.dir/test.cpp.obj: D:\projects\apollo\test.cpp \
- D:\projects\apollo\libs/apollo/apollo.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/iostream \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/requires_hosted.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/pstl/pstl_config.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ostream \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ostream.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ios \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/iosfwd \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stringfwd.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/memoryfwd.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/postypes.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cwchar \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/wchar.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_mac.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_secapi.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/vadefs.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_off_t.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_stat64.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/swprintf.inl \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/exception \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/exception.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/version.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/exception_ptr.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/exception_defines.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/cxxabi_init_exception.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/stddef.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/crtdefs.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/typeinfo \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/hash_bytes.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/new \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/move.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/type_traits \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/nested_exception.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/char_traits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/localefwd.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/clocale \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/locale.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/stdio.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cctype \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/ctype.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ios_base.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/atomicity.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/errno.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sys/types.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/process.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt_startup.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/limits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/signal.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_signal.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/time.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sys/timeb.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_timeval.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_time.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_compat.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_unistd.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_classes.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/string \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/allocator.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/new_allocator.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/functexcept.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/cpp_type_traits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ostream_insert.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/cxxabi_forced.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_iterator_base_funcs.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/concept_check.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/debug/assertions.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_iterator_base_types.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_iterator.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/type_traits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ptr_traits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_function.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/backward/binders.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/numeric_traits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_algobase.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_pair.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/utility.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/debug/debug.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/predefined_ops.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bit \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/concepts \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/refwrap.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/invoke.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/range_access.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/initializer_list \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_string.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/alloc_traits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/alloc_traits.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_construct.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/string_view \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/functional_hash.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/string_view.tcc \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/string_conversions.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cstdlib \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/stdlib.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/stdlib.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/malloc.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/std_abs.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cstdio \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cerrno \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/charconv.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_string.tcc \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/memory_resource.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cstddef \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/uses_allocator.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/uses_allocator_args.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/tuple \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_classes.tcc \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/system_error \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/stdexcept \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/streambuf \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/streambuf.tcc \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_ios.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_facets.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cwctype \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/wctype.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/streambuf_iterator.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_facets.tcc \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_ios.tcc \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ostream.tcc \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/istream \
- D:/Scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/istream.tcc
+CMakeFiles/apollo_test.dir/test.cpp.obj: \
+ C:\Program\ Files\scoop\projects\apollo\test.cpp \
+ C:\Program\ Files\scoop\projects\apollo\libs/apollo/apollo.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/iostream \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/requires_hosted.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/pstl/pstl_config.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ostream \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ostream.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ios \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/iosfwd \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stringfwd.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/memoryfwd.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/postypes.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cwchar \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/wchar.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_mingw_stat64.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/exception \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/exception.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/version.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/exception_ptr.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/exception_defines.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/cxxabi_init_exception.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/stddef.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/typeinfo \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/hash_bytes.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/new \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/move.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/type_traits \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/nested_exception.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/char_traits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/localefwd.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/clocale \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/locale.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/stdio.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cctype \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/ctype.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ios_base.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/atomicity.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/errno.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sys/types.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/process.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/corecrt_startup.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/limits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/signal.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_signal.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/time.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sys/timeb.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/_timeval.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_time.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_compat.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/pthread_unistd.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_classes.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/string \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/allocator.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/new_allocator.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/functexcept.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/cpp_type_traits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ostream_insert.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/cxxabi_forced.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/concept_check.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/debug/assertions.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_iterator_base_types.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_iterator.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/type_traits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ptr_traits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_function.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/backward/binders.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/numeric_traits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_algobase.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_pair.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/utility.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/debug/debug.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/predefined_ops.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bit \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/concepts \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/refwrap.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/invoke.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/range_access.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/initializer_list \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_string.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/alloc_traits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/alloc_traits.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/stl_construct.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/string_view \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/functional_hash.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/string_view.tcc \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/ext/string_conversions.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cstdlib \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/stdlib.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/stdlib.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/malloc.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/std_abs.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cstdio \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cerrno \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/charconv.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_string.tcc \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/memory_resource.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cstddef \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/uses_allocator.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/uses_allocator_args.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/tuple \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_classes.tcc \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/system_error \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/stdexcept \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/streambuf \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/streambuf.tcc \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_ios.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_facets.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/cwctype \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/x86_64-w64-mingw32/include/wctype.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/streambuf_iterator.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/locale_facets.tcc \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/basic_ios.tcc \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/ostream.tcc \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/istream \
+ C:/Program\ Files/scoop/apps/mingw/15.1.0-rt_v12-rev0/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/bits/istream.tcc

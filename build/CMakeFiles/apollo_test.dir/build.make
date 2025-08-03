@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\Scoop\apps\cmake\current\bin\cmake.exe
+CMAKE_COMMAND = "C:\Program Files\scoop\apps\cmake\current\bin\cmake.exe"
 
 # The command to remove a file.
-RM = D:\Scoop\apps\cmake\current\bin\cmake.exe -E rm -f
+RM = "C:\Program Files\scoop\apps\cmake\current\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\projects\apollo
+CMAKE_SOURCE_DIR = "C:\Program Files\scoop\projects\apollo"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\projects\apollo\build
+CMAKE_BINARY_DIR = "C:\Program Files\scoop\projects\apollo\build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/apollo_test.dir/depend.make
@@ -73,33 +73,33 @@ CMakeFiles/apollo_test.dir/codegen:
 
 CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj: CMakeFiles/apollo_test.dir/flags.make
 CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj: CMakeFiles/apollo_test.dir/includes_CXX.rsp
-CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj: D:/projects/apollo/libs/apollo/apollo.cpp
+CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj: C:/Program\ Files/scoop/projects/apollo/libs/apollo/apollo.cpp
 CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj: CMakeFiles/apollo_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\projects\apollo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj"
-	D:\Scoop\apps\mingw\current\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj -MF CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.obj.d -o CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.obj -c D:\projects\apollo\libs\apollo\apollo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Program Files\scoop\projects\apollo\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj"
+	C:\PROGRA~1\scoop\apps\mingw\current\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj -MF CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.obj.d -o CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.obj -c "C:\Program Files\scoop\projects\apollo\libs\apollo\apollo.cpp"
 
 CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.i"
-	D:\Scoop\apps\mingw\current\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\projects\apollo\libs\apollo\apollo.cpp > CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.i
+	C:\PROGRA~1\scoop\apps\mingw\current\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Program Files\scoop\projects\apollo\libs\apollo\apollo.cpp" > CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.i
 
 CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.s"
-	D:\Scoop\apps\mingw\current\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\projects\apollo\libs\apollo\apollo.cpp -o CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.s
+	C:\PROGRA~1\scoop\apps\mingw\current\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Program Files\scoop\projects\apollo\libs\apollo\apollo.cpp" -o CMakeFiles\apollo_test.dir\libs\apollo\apollo.cpp.s
 
 CMakeFiles/apollo_test.dir/test.cpp.obj: CMakeFiles/apollo_test.dir/flags.make
 CMakeFiles/apollo_test.dir/test.cpp.obj: CMakeFiles/apollo_test.dir/includes_CXX.rsp
-CMakeFiles/apollo_test.dir/test.cpp.obj: D:/projects/apollo/test.cpp
+CMakeFiles/apollo_test.dir/test.cpp.obj: C:/Program\ Files/scoop/projects/apollo/test.cpp
 CMakeFiles/apollo_test.dir/test.cpp.obj: CMakeFiles/apollo_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\projects\apollo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/apollo_test.dir/test.cpp.obj"
-	D:\Scoop\apps\mingw\current\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/apollo_test.dir/test.cpp.obj -MF CMakeFiles\apollo_test.dir\test.cpp.obj.d -o CMakeFiles\apollo_test.dir\test.cpp.obj -c D:\projects\apollo\test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Program Files\scoop\projects\apollo\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/apollo_test.dir/test.cpp.obj"
+	C:\PROGRA~1\scoop\apps\mingw\current\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/apollo_test.dir/test.cpp.obj -MF CMakeFiles\apollo_test.dir\test.cpp.obj.d -o CMakeFiles\apollo_test.dir\test.cpp.obj -c "C:\Program Files\scoop\projects\apollo\test.cpp"
 
 CMakeFiles/apollo_test.dir/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/apollo_test.dir/test.cpp.i"
-	D:\Scoop\apps\mingw\current\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\projects\apollo\test.cpp > CMakeFiles\apollo_test.dir\test.cpp.i
+	C:\PROGRA~1\scoop\apps\mingw\current\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Program Files\scoop\projects\apollo\test.cpp" > CMakeFiles\apollo_test.dir\test.cpp.i
 
 CMakeFiles/apollo_test.dir/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/apollo_test.dir/test.cpp.s"
-	D:\Scoop\apps\mingw\current\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\projects\apollo\test.cpp -o CMakeFiles\apollo_test.dir\test.cpp.s
+	C:\PROGRA~1\scoop\apps\mingw\current\bin\C__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Program Files\scoop\projects\apollo\test.cpp" -o CMakeFiles\apollo_test.dir\test.cpp.s
 
 # Object files for target apollo_test
 apollo_test_OBJECTS = \
@@ -115,7 +115,7 @@ apollo_test.exe: CMakeFiles/apollo_test.dir/build.make
 apollo_test.exe: CMakeFiles/apollo_test.dir/linkLibs.rsp
 apollo_test.exe: CMakeFiles/apollo_test.dir/objects1.rsp
 apollo_test.exe: CMakeFiles/apollo_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\projects\apollo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable apollo_test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Program Files\scoop\projects\apollo\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable apollo_test.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\apollo_test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -127,6 +127,6 @@ CMakeFiles/apollo_test.dir/clean:
 .PHONY : CMakeFiles/apollo_test.dir/clean
 
 CMakeFiles/apollo_test.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\projects\apollo D:\projects\apollo D:\projects\apollo\build D:\projects\apollo\build D:\projects\apollo\build\CMakeFiles\apollo_test.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Program Files\scoop\projects\apollo" "C:\Program Files\scoop\projects\apollo" "C:\Program Files\scoop\projects\apollo\build" "C:\Program Files\scoop\projects\apollo\build" "C:\Program Files\scoop\projects\apollo\build\CMakeFiles\apollo_test.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/apollo_test.dir/depend
 

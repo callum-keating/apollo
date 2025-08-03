@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/projects/apollo/libs/apollo/apollo.cpp" "CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj" "gcc" "CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj.d"
-  "D:/projects/apollo/test.cpp" "CMakeFiles/apollo_test.dir/test.cpp.obj" "gcc" "CMakeFiles/apollo_test.dir/test.cpp.obj.d"
+  "C:/Program Files/scoop/projects/apollo/libs/apollo/apollo.cpp" "CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj" "gcc" "CMakeFiles/apollo_test.dir/libs/apollo/apollo.cpp.obj.d"
+  "C:/Program Files/scoop/projects/apollo/test.cpp" "CMakeFiles/apollo_test.dir/test.cpp.obj" "gcc" "CMakeFiles/apollo_test.dir/test.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
