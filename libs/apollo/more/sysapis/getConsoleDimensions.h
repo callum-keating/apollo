@@ -1,1 +1,0 @@
-int getConsoleDimensions(int *array);
