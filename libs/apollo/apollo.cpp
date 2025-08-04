@@ -4,25 +4,33 @@
 #include <conio.h>
 #include <windows.h>
 #endif
-namespace apollo {
-    int print(const char* toPrint) {
+#include "more/sysapis/getConsoleDimensions.h"
+
+namespace apollo
+{
+    int print(const char *toPrint)
+    {
         std::cout << toPrint;
         return 0;
     }
-    int clearTerm() {
+
+    int clearTerm()
+    {
         std::cout << "\x1b[2J\x1b[H";
         return 0;
     }
-    int setCursor(int x, int y) {
-        #ifdef _WIN32
+    int setCursor(int x, int y)
+    {
+#ifdef _WIN32
         COORD coord;
         coord.X = x;
         coord.Y = y;
         SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
-        #endif
+#endif
         return 0;
     }
-    std::array<int, 2> getConsoleSize() {
+    std::array<int, 2> getConsoleSize()
+    {
         CONSOLE_SCREEN_BUFFER_INFO csbi;
         int columns, rows;
 
@@ -31,9 +39,10 @@ namespace apollo {
         rows = csbi.srWindow.Bottom - csbi.srWindow.Top + 1;
         return {columns, rows};
     }
-    int waitKey() {
-        #ifdef _WIN32
+    int waitKey()
+    {
+#ifdef _WIN32
         return _getch();
-        #endif
+#endif
     }
 }
