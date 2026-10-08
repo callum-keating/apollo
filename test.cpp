@@ -1,5 +1,0 @@
-#include "libs/apollo/apollo.h"
-
-int main() {
-    return 0;
-}
